@@ -1,4 +1,4 @@
-# hellovue
+# HelloVue
 
 > A Vue.js project
 
